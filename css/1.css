@@ -1,0 +1,323 @@
+@charset 'UTF-8';
+body,div,img,p,a,ul,li {
+	margin: 0;
+	padding: 0;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+body {
+	background: #f7f7f7;
+}
+.toubu img {
+	width: 100%;
+	height: 135px;
+}
+.daohangg {
+/* 	width: 1900px; */
+	height: 36px;
+	margin-top: -5px;
+	background: #4CACF8;
+}
+.daohang {
+	width: 1000px;
+	margin: 0 auto;
+	height: 36px;
+	background: #4CACF8;
+	margin-top: -5px;
+}
+.daohang p{
+	color: #fff;
+	line-height: 36px;
+	float: left;
+	font-size: 15px;
+}
+.daohang a {
+	font-size: 16px;
+	text-decoration: none;
+	color: #025AAF;
+	float: right;
+	line-height: 36px;
+	background-image: url('../images/2.png');
+	width: 131px;
+	height: 33px;
+	text-align: center;
+	margin-top: 3px;
+}
+.didi {
+/* 	width: 1900px; */
+}
+.diming {
+	width: 980px;
+	height: 80px;
+	margin: 0 auto;
+}
+.diming ul{
+	float: left;
+	list-style: none;
+}
+.diming li{
+	font-size: 16px;
+	/* display: block; */
+	background: url('../images/3.png') no-repeat left;
+	padding-left: 25px;
+	line-height: 80px;
+	color: #0D89EA;
+}
+.diming p{
+	font-size: 16px;
+	margin-left:120px;
+}
+.diming .shuzi{
+	padding-top: 20px;
+}
+/* .libu {
+	width: 1900px;
+	height: 1200px;
+} */
+.neirong {
+	width: 1000px;
+	height: 1300px;
+	border: 2px solid #DFDEDE;
+	box-shadow: 0 3px 5px 3px #DFDEDE;
+	margin: 0 auto;
+	background: #fff;
+}
+a{
+	text-decoration: none;
+}
+.diyi{
+	width: 500px;
+	height: 300px;
+	float: left;
+}
+.dier{
+	width: 500px;
+	height: 300px;
+	float: right;
+}
+.disan{
+	width: 500px;
+	height: 300px;
+	float: left;
+}
+.disi{
+	width: 500px;
+	height: 300px;
+	float: right;
+}
+.diwu{
+	width: 500px;
+	height: 300px;
+	float: left;
+}
+.diliu{
+	width: 500px;
+	height: 300px;
+	float: right;
+}
+.diqi{
+	width: 500px;
+	height: 300px;
+	float: left;
+}
+.diba{
+	width: 500px;
+	height: 300px;
+	float: right;
+}
+.neia{
+	width: 500px;
+	height: 290px;
+	border-bottom: 1px dashed #5c5c5c;
+	background: url('../images/旅游开放日_1225_r5_c6.png') no-repeat right;
+}
+.dier .neia{
+	background: none;
+}
+.disi .neia{
+	background: none;
+}
+.diliu .neia{
+	background: none;
+}
+.diba .neia{
+	background: none;
+}
+.das{
+	width: 500px;
+}
+.neia img{
+	margin-top: 26px;
+	margin-left: 26px;
+	float: left;
+}
+.neia .a{
+	padding-top: 24px;
+	padding-left: 245px;
+	font-size: 16px;
+	color: #0D89EA;
+	padding-right: 20px;
+}
+.neia .b{
+	font-size: 12px;
+	padding-top: 10px;
+	padding-left: 245px;
+	padding-bottom: 8px;
+}
+.neia .c{
+	width: 90px;
+	height: 32px;
+	background: #FE9111;
+	margin-left: 26px;
+	font-size: 16px;
+	/* padding: 8px; */
+	border-radius: 5px;
+	display: block;
+	float: left;
+	text-align: center;
+	line-height: 32px;
+	color: #fff;
+}
+.neia .d{
+	width: 90px;
+	height: 32px;
+	background: #B7B7B7;
+	margin-left: 10px;
+	font-size: 16px;
+	/* padding: 8px; */
+	border-radius: 5px;
+	display: block;
+	float: left;
+	text-align: center;
+	line-height: 32px;
+	color: #fff;
+}
+.neia .e{
+	width: 190px;
+	height: 32px;
+	background: #67BA0F;
+	margin-left: 26px;
+	font-size: 16px;
+/* 	padding: 8px 80px; */
+	border-radius: 5px;
+	display: block;
+	float: left;
+	text-align: center;
+	line-height: 32px;
+	margin-top: 5px;
+	color: #fff;
+}
+.da{
+	width: 500px;
+}
+.f{
+	padding-left: 26px;
+	padding-top: 14px;
+	font-size: 12px;
+	color: #666666;
+}
+.h{
+	padding-left: 26px;
+	font-size: 12px;
+	color: #666666;
+	padding-top: 5px;
+}
+.j{
+	padding-left: 26px;
+	font-size: 12px;
+	color: #FE0000;
+	padding-bottom: 10px;
+	padding-top: 5px;
+}
+.k{
+	padding-left: 26px;
+	font-size: 12px;
+	color: #38A5FB;
+}
+.dier .neia .c{
+	background: none;
+}
+.dier .neia .d{
+	background: none;
+}
+.disi .d{
+	background: #FE9111;
+}
+.disi .e{
+	background: #299DF1;
+}
+.diwu .d{
+	background: #FE9111;
+}
+.diliu .d{
+	background: #FE9111;
+}
+.diliu .e{
+	background: #299DF1;
+}
+.diqi .d{
+	background: #FE9111;
+}
+.diba .d{
+	background: #FE9111;
+}
+.diba .e{
+	background: #299DF1;
+}
+.diqi .neia {
+	border-bottom: none;
+}
+.diba .neia {
+	border-bottom: none;
+}
+.diba,.diqi {
+	padding-bottom: 30px;
+}
+.ye{
+	width: 350px;
+	margin: 0 auto;
+}
+.ye .aa{
+	font-size: 12px;
+	border: 1px solid #D7D7D7;
+	padding: 8px 12px;
+	margin: 10px;
+	color: #000;
+
+}
+.ye a{
+	font-size: 12px;
+	border: 1px solid #D7D7D7;
+	padding: 8px;
+	margin: 6px;
+	color: #666666;
+}
+.zuihou{
+	width: 1000px;
+	height: 85px;
+	margin: 0 auto;
+	background: #fff;
+	box-shadow: 0 3px 5px 3px #DFDEDE;
+}
+.zuihou p{
+	font-size: 12px;
+	color: #666666;
+}
+.zui{
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 54px;
+}
+.ye .ad{
+	background: #FE9111;
+}
+.ye a:hover{
+	background: #FE9111;
+}
+
+
+
+

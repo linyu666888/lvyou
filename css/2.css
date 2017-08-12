@@ -1,0 +1,109 @@
+@charset 'UTF-8';
+body,div,img,p,a,ul,li,span {
+	margin: 0;
+	padding: 0;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+body {
+	background: #f7f7f7;
+}
+.toubu img {
+	width: 100%;
+	height: 135px;
+}
+.daohangg {
+/* 	width: 1900px; */
+	height: 36px;
+	margin-top: -5px;
+	background: #4CACF8;
+}
+.daohang {
+	width: 1000px;
+	margin: 0 auto;
+	height: 36px;
+	background: #4CACF8;
+	margin-top: -5px;
+}
+.daohang a {
+	font-size: 16px;
+	text-decoration: none;
+	color: #fff;
+	float: left;
+	line-height: 36px;
+	width: 150px;
+	height: 33px;
+	text-align: center;
+/* 	margin-top: 3px; */
+}
+.biaozi {
+	width: 810px;
+	height: 400px;
+	margin: 0 auto;
+	padding-top: 60px;
+}
+.biaozi li{
+	background: url('../images/9.png') no-repeat left;
+	padding-left: 20px;
+	font-size: 20px;
+}
+ul{
+	list-style: none;
+	padding-left: 10px;
+}
+.neirong{
+	width: 810px;
+	height: 350px;
+	background: #fff;
+	box-shadow: 0 3px 8px 3px #bbb;
+	margin-top: 20px;
+}
+.neia span{
+	color: red;
+
+}
+.neia{
+	padding-top: 65px;
+	padding-left: 95px;
+}
+.neib span{
+	color: red;
+}
+.neib{
+	padding-top: 20px;
+	padding-left: 95px;
+}
+.neib .aa{
+	padding-right: 15px;
+	color: #000;
+}
+.anniu{
+	width: 180px;
+	height: 50px;
+	background: #2BB3F3;
+	border-radius: 5px;
+	margin-left: 95px;
+	margin-top: 36px;
+}
+.anniu a{
+	text-decoration: none;
+	line-height: 50px;
+	padding-left: 70px;
+}
+.zuihou{
+	width: 1000px;
+	height: 160px;
+	margin: 0 auto;
+}
+.zuihou p{
+	font-size: 12px;
+	color: #666666;
+}
+.zui{
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 120px;
+}

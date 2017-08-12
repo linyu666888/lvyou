@@ -1,0 +1,88 @@
+@charset 'UTF-8';
+body,div,img,p,a,ul,li,span {
+	margin: 0;
+	padding: 0;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+body {
+	background: #f7f7f7;
+}
+.toubu img {
+	width: 100%;
+	height: 70px;
+}
+a{
+	text-decoration: none;
+}
+.toubu a{
+	color: #CCE5FB;
+	position: absolute;
+	right: 210px;
+	top: 25px;
+}
+.nei{
+	width: 900px;
+	height: 140px;
+	border: 1px solid #D0DFE9;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 34px;
+	border-radius: 5px;
+	box-shadow: 0 3px 5px 3px #DFDEDE;
+}
+.nei p{
+	padding-left: 18px;
+	font-size: 12px;
+	color: #000;
+}
+.nei .a{
+	padding-top: 16px;
+	padding-left: 18px;
+	padding-bottom: 26px;
+}
+.nei .a span{
+	color: #4AA1EC;
+}
+.nei .b{
+	padding-top: 10px;
+	padding-left: 18px;
+}
+.nei .b span{
+	color: #666666;
+}
+.anniu{
+	width: 900px;
+	height: 60px;
+	background: #4AA1EC;
+	margin: 0 auto;
+	margin-top: 12px;
+	border-radius: 5px;
+	box-shadow: 0 3px 5px 3px #DFDEDE;
+}
+.anniu a{
+	width: 900px;
+	display: block;
+	font-size: 16px;
+	color: #fff;
+	line-height: 60px;
+	text-align: center;
+}
+.zuihou{
+	width: 900px;
+	height: 85px;
+	margin: 0 auto;
+	padding-top: 520px;
+}
+.zuihou p{
+	font-size: 12px;
+	color: #666666;
+}
+.zui{
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 54px;
+}

@@ -1,0 +1,156 @@
+@charset 'UTF-8';
+body,div,img,p,a,ul,li,span {
+	margin: 0;
+	padding: 0;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+body {
+	background: #f7f7f7;
+}
+.toubu img {
+	width: 100%;
+	height: 135px;
+}
+.daohangg {
+/* 	width: 1900px; */
+	height: 36px;
+	margin-top: -5px;
+	background: #4CACF8;
+}
+.daohang {
+	width: 1000px;
+	margin: 0 auto;
+	height: 36px;
+	background: #4CACF8;
+/* 	margin-top: -5px; */
+}
+.daohang a {
+	font-size: 16px;
+	text-decoration: none;
+	color: #fff;
+	float: left;
+	line-height: 36px;
+	width: 300px;
+	height: 33px;
+	text-align: center;
+/* 	margin-top: 3px; */
+}
+.neirong{
+	width: 1000px;
+	height: 1540px;
+	background: #fff;
+	margin: 0 auto;
+}
+.tupian{
+	padding-bottom: 30px;
+}
+.tupian p{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 24px;
+	padding-bottom: 18px;
+}
+.tupian img{
+	padding-left: 195px;
+}
+.ziti span{
+	padding-left: 50px;
+	font-weight: bold;
+}
+.ziti p{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-indent: 2em;
+	padding-left: 25px;
+	padding-right: 25px;
+	color: #666666;
+}
+.lianjie .aa{
+	width: 75px;
+	height: 22px;
+	background: #38A5FB;
+	font-size: 14px;
+	color: #fff;
+	display: block;
+	text-align: center;
+	margin-left: 25px;
+}
+.lianjie .ab{
+	margin-left: 50px;
+	font-size: 12px;
+	margin-top: 14px;
+}
+.lianjie .ac{
+	margin-left: 50px;
+	font-size: 12px;
+	margin-top: 10px;
+}
+.lianjie .ad{
+	margin-left: 50px;
+	font-size: 12px;
+	margin-top: 10px;
+}
+.lian{
+	width: 1000px;
+	height: 22px;
+	border-bottom: 1px solid #38A5FB;
+	margin-bottom: 20px;
+}
+.lianjie{
+	margin-bottom: 30px;
+}
+.xia .aa{
+	width: 75px;
+	height: 22px;
+	background: #38A5FB;
+	font-size: 14px;
+	color: #fff;
+	display: block;
+	text-align: center;
+	margin-left: 25px;
+}
+.xia .as{
+	margin-left: 50px;
+	font-size: 12px;
+	margin-right: 5px;
+	float: left;
+}
+.xia a{
+	background: #F3F3F2;
+	border-radius: 5px;
+	padding: 10px 40px;
+	margin-left: 5px;
+	color: #317CB7;
+}
+a{
+	text-decoration: none;
+}
+.guo{
+	width: 930px;
+	height: 205px;
+	border: 1px solid #38A5FB;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.guo img{
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.zuihou{
+	width: 1000px;
+	height: 80px;
+	margin: 0 auto;
+}
+.zuihou p{
+	font-size: 12px;
+	color: #666666;
+}
+.zui{
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 70px;
+}
